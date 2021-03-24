@@ -33,8 +33,6 @@ This change is important for code dependency management, to make sure that your 
 ## Getting Started
 
 The overall system is composed of multiple modules.
-The main server is the _silo_.
-The clients are the _eye_ and _spotter_.
 
 See the project statement for a full description of the domain and the system.
 
